@@ -145,10 +145,10 @@ Exemplo lista com numeral romano:
 
 Nam commodo
 
- I.   Morbi luctus elit enim.
- II.  Nullam nunc leo.
- III. Proin id dui lorem.
- VI.  Nunc finibus risus.
+ \\I.   Morbi luctus elit enim.
+ \\II.  Nullam nunc leo.
+ \\III. Proin id dui lorem.
+ \\VI.  Nunc finibus risus.
 
 
 
