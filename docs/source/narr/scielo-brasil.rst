@@ -150,5 +150,5 @@ Este elemento em :ref:`elemento-aff` é obrigatório para SciELO Brasil e deve o
 <contrib-id>
 ^^^^^^^^^^^^
 
-Este elemento em :ref:`elemento-contrib` com o atributo ``@contrib-id-type`` e valor "orcid" é obrigatório para SciELO Brasil em pelo menos um dos autores e deve ocorrer uma vez para cada autor.
+Este elemento em :ref:`elemento-contrib` com o atributo ``@contrib-id-type`` e valor "orcid" é obrigatório para SciELO Brasil em pelo menos um dos autores e deve ocorrer uma vez para cada autor. 
 
