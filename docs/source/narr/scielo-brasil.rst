@@ -152,3 +152,5 @@ Este elemento em :ref:`elemento-aff` é obrigatório para SciELO Brasil e deve o
 
 Este elemento em :ref:`elemento-contrib` com o atributo ``@contrib-id-type`` e valor "orcid" é obrigatório para SciELO Brasil em pelo menos um dos autores e deve ocorrer uma vez para cada autor. 
 
+.. note::
+ Uso não é obrigatório para `Errata <http://docs.scielo.org/projects/scielo-publishing-schema/pt_BR/latest/narr/errata.html>`_ e `Retratação <http://docs.scielo.org/projects/scielo-publishing-schema/pt_BR/latest/narr/retratacao.html>`_
